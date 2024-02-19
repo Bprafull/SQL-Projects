@@ -1,4 +1,4 @@
-# SQL-Projects
+# SQL-Functions
 
 TO_CHAR
 
